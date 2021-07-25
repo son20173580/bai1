@@ -1,4 +1,4 @@
-package com.example.demo;
+package Bai_1;
 
 class Dashboard {
     private static double discount_value;
