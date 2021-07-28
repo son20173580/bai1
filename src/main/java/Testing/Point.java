@@ -1,9 +1,9 @@
-package templates;
+package Testing;
 
 public class Point {
-    private static int x;
+    private  int x;
 
-    private static int y;
+    private  int y;
     public  Point(int x,int y){
         this.x=x;
         this.y=y;
